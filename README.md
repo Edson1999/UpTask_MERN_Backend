@@ -1,6 +1,7 @@
 ## UpTask (Back End)
 
 > Proyecto MERN Stack enfocado en la gestión de proyectos, tareas y colaboradores.
+> Implementa socket io para operaciones en tiempo real.
 
 <br>
 
@@ -18,7 +19,8 @@
 - Eliminar colaboradores.
 - Buscar proyectos en especifico.
 
-- Permite la creación de cuentas a usuarios, recuperar cuentas.
+- Permite la creación de cuentas a usuarios
+- Permite recuperación de cuentas.
 ```
 
 **Tecnologías**
